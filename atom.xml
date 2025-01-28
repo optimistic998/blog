@@ -6,7 +6,7 @@
   <link href="https://optimistic998.github.io/atom.xml" rel="self"/>
   
   <link href="https://optimistic998.github.io/"/>
-  <updated>2024-12-20T15:51:23.595Z</updated>
+  <updated>2025-01-28T13:39:27.884Z</updated>
   <id>https://optimistic998.github.io/</id>
   
   <author>
@@ -21,89 +21,9 @@
     <link href="https://optimistic998.github.io/2024/12/20/%E6%88%91%E5%BC%80%E7%9A%84%E5%9F%BA%E4%BA%8EMTR%E6%A8%A1%E7%BB%84%E7%9A%84MC%E6%9C%8D%E5%8A%A1%E5%99%A8-%E7%9B%9B%E5%B9%B3%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     <id>https://optimistic998.github.io/2024/12/20/%E6%88%91%E5%BC%80%E7%9A%84%E5%9F%BA%E4%BA%8EMTR%E6%A8%A1%E7%BB%84%E7%9A%84MC%E6%9C%8D%E5%8A%A1%E5%99%A8-%E7%9B%9B%E5%B9%B3%E6%9C%8D%E5%8A%A1%E5%99%A8/</id>
     <published>2024-12-20T15:44:35.049Z</published>
-    <updated>2024-12-20T15:51:23.595Z</updated>
+    <updated>2025-01-28T13:39:27.884Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是我开的第一个MC的服务器，有兴趣的可以转到官方blog查看详情，这里不做过多介绍<br>这是一个建设的服务器，欢迎大家加入一起建设<br>官方blog地址：<a href="https://www.shengpingcity.top/">https://www.shengpingcity.top/</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>捐赠文档</title>
-    <link href="https://optimistic998.github.io/2024/12/20/%E6%8D%90%E8%B5%A0%E6%96%87%E6%A1%A3/"/>
-    <id>https://optimistic998.github.io/2024/12/20/%E6%8D%90%E8%B5%A0%E6%96%87%E6%A1%A3/</id>
-    <published>2024-12-20T14:52:51.418Z</published>
-    <updated>2024-12-20T15:09:37.012Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="微信："><a href="#微信：" class="headerlink" title="微信："></a>微信：</h2><p><img src="/img/md/wx.jpeg" alt="avatar"></p><h2 id="支付宝："><a href="#支付宝：" class="headerlink" title="支付宝："></a>支付宝：</h2><p><img src="/img/md/zfb.jpeg" alt="avatar"></p><h2 id="感谢所有捐赠的支持者！"><a href="#感谢所有捐赠的支持者！" class="headerlink" title="感谢所有捐赠的支持者！"></a>感谢所有捐赠的支持者！</h2>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>LittlePaiMon小派蒙bot搭建教程</title>
-    <link href="https://optimistic998.github.io/2024/12/20/none-bot%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    <id>https://optimistic998.github.io/2024/12/20/none-bot%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
-    <published>2024-12-20T14:52:51.414Z</published>
-    <updated>2024-12-20T15:44:32.419Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前情提要："><a href="#前情提要：" class="headerlink" title="前情提要："></a>前情提要：</h2><p>1、本教程提供的所有资源均为免费，请勿倒卖！！！<br>2、此机器人基于None-bot开发，非本人开发，教程暂未失效<br>3、推荐下载一个代码编辑器，便于后续修改一些文件，推荐vscode，也可使用记事本打开<br>vscode下载链接：<br><a href="https://wwu.lanzouj.com/ih3Qb0d08hwb">https://wwu.lanzouj.com/ih3Qb0d08hwb</a> 密码:vscode</p><h2 id="1、配置环境"><a href="#1、配置环境" class="headerlink" title="1、配置环境"></a>1、配置环境</h2><p>1、none-bot运行环境基于python，请先安装python，版本最好是3.9，下载地址：<br><a href="https://wwu.lanzouj.com/ipN8u0d03cuj">https://wwu.lanzouj.com/ipN8u0d03cuj</a> 密码：python<br>下载完成后安装，注：安装前一定要勾选<code>Add Python 3.9 to PATH</code><br>在终端或cmd输入<code>python -V</code>显示版本号即为python安装成功<br><img src="/img/md/pyi.png" alt="avatar"><br>2、手动安装Git，需要用，下载地址：<br><a href="https://wwu.lanzouj.com/idQ7v0d01upa">https://wwu.lanzouj.com/idQ7v0d01upa</a> 密码：git<br>安装时只需要一路无脑next就行<br>3、配置FFmpeg（语音转换）<br>FFmpeg下载地址：<br><a href="https://wwu.lanzouj.com/iYzUi0d08p3a">https://wwu.lanzouj.com/iYzUi0d08p3a</a><br>下载完解压后请放到不会动的路径下，需要配置环境变量<br>找到此电脑，点击右键-属性-高级系统设置-环境变量-找到用户变量名<code>path</code>双击，打开之后是这样的：<br><img src="/img/md/2.png" alt="avatar"><br>然后点击新建，找到你<code>FFmpeg</code>的路径，复制你FFmpeg文件下的<code>bin</code>路径，粘贴到环境变量path里，例如下图：<br><img src="/img/md/3.png" alt="avatar"><br>配置好之后一路点确定就可以了<br>最后打开终端或cmd运行<code>ffmpeg –version</code>如果显示版本号即为FFmpeg配置成功</p><h2 id="2、开始部署"><a href="#2、开始部署" class="headerlink" title="2、开始部署"></a>2、开始部署</h2><p>1、安装Poetry<br>按住<kbd>shift</kbd> + <kbd>鼠标右键</kbd>打开Windows powershell（终端）运行<code>pip install poetry</code><br>安装完成后运行<code>poetry -V</code>如果显示版本号即为Poetry安装成功<br>2、安装none-bot<br>选择一个之后不会移动的路径，最好不要有中文，打开终端，然后依次运行以下代码：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 在你想要的路径下安装poetry</span></span><br><span class="line">pip install poetry</span><br><span class="line"><span class="comment"># 克隆none-bot文件</span></span><br><span class="line">git <span class="built_in">clone</span> https://github.com/CMHopeSunshine/LittlePaimon</span><br><span class="line"><span class="comment"># 进入根目录文件夹</span></span><br><span class="line"><span class="built_in">cd</span> LittlePaimon</span><br><span class="line"><span class="comment"># 安装依赖</span></span><br><span class="line">poetry install</span><br></pre></td></tr></table></figure><p>3、安装go-cqhttp插件<br>继续运行<code>poetry run nb plugin install nonebot-plugin-gocqhttp</code><br>4、配置超级用户<br>编辑文件<code>.env.prod</code>的第4行<code>SUPERUSERS=["123456"]</code>中的123456替换成bot的管理账号<br>5、配置机器人账号（q小号）<br>在bot的根目录打开终端运行<code>poetry run nb run</code>开启bot<br>浏览器访问<a href="http://127.0.0.1:13579/go-cqhttp/">http://127.0.0.1:13579/go-cqhttp/</a><br>点击添加账号，输入你的q小号和密码，登陆设备类型推荐选择<code>安卓手机</code><br>操作完成后重启bot，向bot的账号发送<code>帮助</code>如有回复帮助列表即为部署成功</p><h2 id="3、配置公共ck"><a href="#3、配置公共ck" class="headerlink" title="3、配置公共ck"></a>3、配置公共ck</h2><p>这个公共ck一定要配置，不然除了配置过ck的账号其他账号都不可以使用<br>浏览器访问米游社官网：<a href="https://bbs.mihoyo.com/ys/home/28">https://bbs.mihoyo.com/ys/home/28</a><br>然后登陆你的米游社账户，登陆完成后按键盘上的<code>F12</code>打开开发者工具，然后选择<code>控制台</code><br>注：有的人浏览器开发者工具显示的是英文的，选择<code>Console</code>即可<br>然后在控制台输入<code>document.cookie</code>回车，将返回的值全部复制下来<br>然后向你bot的账号发送<code>添加公共ck</code> + 刚刚复制的ck，然后回车<br>显示配置成功即为完成配置</p><h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>你的none-bot机器人已经成功搭建完成<br>每次启动bot时的指令都是：<code>poetry run nb run</code><br>配置ck时建议与机器人私聊，如在群聊里配置，建议配置完后撤回，以免ck被盗</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>原神私服搭建教程</title>
-    <link href="https://optimistic998.github.io/2024/03/30/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    <id>https://optimistic998.github.io/2024/03/30/%E5%8E%9F%E7%A5%9E%E7%A7%81%E6%9C%8D%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
-    <published>2024-03-30T07:33:46.837Z</published>
-    <updated>2024-12-20T15:44:13.677Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前情提要："><a href="#前情提要：" class="headerlink" title="前情提要："></a>前情提要：</h2><p>1、本教程所涉及的原神版本为3.3，版本过旧，但仍然可以搭建。<br>2、目前本人已退游原神，对于新版本的私服搭建教程已停更，您可以寻找其他新版搭建教程<br>3、本教程提供的所有资源均为免费，请勿倒卖！！！</p><h2 id="1、配置环境"><a href="#1、配置环境" class="headerlink" title="1、配置环境"></a>1、配置环境</h2><p>1、安装Java SE Development Kits – 17<br>下载链接：<a href="https://www.123pan.com/s/puzRVv-TMzv3">https://www.123pan.com/s/puzRVv-TMzv3</a><br>安装后按下<kbd>win</kbd>+<kbd>r</kbd>然后输入<code>cmd</code>运行，cmd内输入<code>java -version</code>返回版本号即安装成功<br>2、安装mangoDB<br>下载链接：<a href="https://www.123pan.com/s/puzRVv-dMzv3">https://www.123pan.com/s/puzRVv-dMzv3</a><br>3、下载易语言代理软件<br>下载链接：<a href="https://www.123pan.com/s/puzRVv-3Mzv3">https://www.123pan.com/s/puzRVv-3Mzv3</a></p><h2 id="2、开始部署"><a href="#2、开始部署" class="headerlink" title="2、开始部署"></a>2、开始部署</h2><p>1、下载Grasscutter<br>下载链接：<a href="https://github.com/Grasscutters/Grasscutter">https://github.com/Grasscutters/Grasscutter</a><br>点那个绿色的<code>Code</code>，然后点<code>Download ZIP</code>即可下载<br>下载完Grasscutter后，解压并打开压缩包里面的文件夹<br>2、下载依赖文件<br>下载链接：<a href="https://www.123pan.com/s/puzRVv-ZWzv3">https://www.123pan.com/s/puzRVv-ZWzv3</a><br>解压后将其移动到<code>Grasscutter</code>的根目录，注：不要修改文件名<br>3、在空白处按住<kbd>shift</kbd>+<kbd>右键</kbd>打开终端(Powershell)<br>然后编译文件，依次运行以下代码：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">.\gradlew.bat</span><br><span class="line">.\gradlew jar</span><br></pre></td></tr></table></figure><p>编译完后在文件夹内看到<code>.jar</code>的核心文件就没问题<br>3、下载原神国际版客户端<br>下载链接：<a href="https://genshin.hoyoverse.com/en">https://genshin.hoyoverse.com/en</a><br>下载安装完后打开启动器下载游戏资源，然后进入游戏安装目录，进入<code>Genshin Impact game</code>文件夹，解压补丁，同名文件替换即可<br>补丁下载链接：<a href="https://www.123pan.com/s/puzRVv-cWzv3">https://www.123pan.com/s/puzRVv-cWzv3</a></p><h2 id="3、运行私服"><a href="#3、运行私服" class="headerlink" title="3、运行私服"></a>3、运行私服</h2><p>1、打开易语言代理文件夹，找到<code>易语言代理.exe</code>，右键选择以管理员身份运行<br>这里服务器转向我们填：<code>127.0.0.1</code>，端口填：<code>22102</code>，填好之后点击开启代理<br>2、运行<code>Grasscutter</code>的核心文件，为了后面运行方便，我这里还是建议大家创建个指令文件<br>我们先打开文件扩展名，在此电脑中点击<code>查看</code>，勾选<code>文件扩展名</code>即可<br>然后我们在<code>Grasscutter</code>的根目录空白处右键，新建一个文本文件，命名为<code>Grasscutter run.bat</code>，然后再右键这个文件，选择<code>编辑</code>，然后放入以下命令：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">java -jar .\grasscutter-1.4.5-dev.jar</span><br></pre></td></tr></table></figure><p>这里命令中的文件名按照你的实际情况修改，也就是你目前核心文件的版本，我这里是1.4.5<br>现在运行这个文件，这样以后启动的时候就只需要找到这个文件，双击就可以运行<code>Grasscutter</code>啦，只要没报错就没问题<br>3、输入命令创建账户：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">account create &lt;此处填写你的用户名&gt; &lt;此处填写你的uid&gt;</span><br></pre></td></tr></table></figure><p>4、启动原神客户端：<br>进入游戏安装目录，打开<code>Genshin Impact game</code>文件夹，运行<code>GenshinImpact.exe</code>，登录时输入你创建的用户名，密码随便填，这样就可以进入游戏啦<br>5、可以对着<code>sever</code>(游戏好友)发送指令来实现在游戏里的变化，指令工具下载器如下链接，不可以挂代理下载：<br><a href="https://www.123pan.com/s/puzRVv-aszv3">https://www.123pan.com/s/puzRVv-aszv3</a></p><h2 id="PS："><a href="#PS：" class="headerlink" title="PS："></a>PS：</h2><p>每次启动私服的流程是：<br>开启易语言代理→开启Grasscutter服务端→开启原神客户端</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>测底力小游戏-吃掉小猫猫</title>
-    <link href="https://optimistic998.github.io/2024/03/30/%E4%BC%91%E9%97%B2%E5%B0%8F%E6%B8%B8%E6%88%8F-%E5%90%83%E6%8E%89%E5%B0%8F%E7%8C%AB%E7%8C%AB/"/>
-    <id>https://optimistic998.github.io/2024/03/30/%E4%BC%91%E9%97%B2%E5%B0%8F%E6%B8%B8%E6%88%8F-%E5%90%83%E6%8E%89%E5%B0%8F%E7%8C%AB%E7%8C%AB/</id>
-    <published>2024-03-30T07:33:46.835Z</published>
-    <updated>2024-12-20T15:14:46.620Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>本游戏非本人开发，来自github的开源项目！！！<br>游戏链接：<a href="https://eafoo.github.io/eatcat/">https://eafoo.github.io/eatcat/</a><br>快来和你的朋友一起测测底力吧！</p><h2 id="下面是游戏展示👇"><a href="#下面是游戏展示👇" class="headerlink" title="下面是游戏展示👇"></a>下面是游戏展示👇</h2><p><img src="/img/md/test1.png" alt="avatar"><!-- 插入图片 --></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>这是我开的第一个MC的服务器，有兴趣可以转到官方blog或b站查看详情<br>这是一个建设的服务器，欢迎大家加入一起建设！<br>官方b站账号：<a href="https://b23.tv/vwIzJ6l">https://b23.tv/vwIzJ6l</a><br>官方blog地址：<a href="https://www.shengpingcity.top/">https://www.shengpingcity.top/</a></p>]]></content>
     
     
       
@@ -121,7 +41,7 @@
     <link href="https://optimistic998.github.io/2024/03/30/hello-world/"/>
     <id>https://optimistic998.github.io/2024/03/30/hello-world/</id>
     <published>2024-03-30T07:33:46.831Z</published>
-    <updated>2022-11-24T14:16:26.000Z</updated>
+    <updated>2025-01-28T14:08:12.566Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
